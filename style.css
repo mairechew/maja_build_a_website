@@ -61,6 +61,12 @@
   height: auto;
 }
 
+.two-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .three-column {
   display: flex;
   justify-content: space-between;
